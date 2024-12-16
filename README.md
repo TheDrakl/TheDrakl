@@ -1,12 +1,23 @@
-# Hello 👋 I'm Denys
+<h1 align="center">Hello 👋 I'm Denys</h1>
 
+<p align="center">
 I'm a junior Web Developer with experience in building websites using Vue for frontend and Django with DRF for backend. While I don’t have a lot of experience yet, I am eager to learn and grow in this field.
+</p>
 
-### Tech Stack:
-- **Backend**: Python, Django, DRF, PostgreSQL, Gunicorn, Nginx  
-- **Frontend**: HTML, CSS, TailwindCSS, JavaScript, Vue3  
-- **Tools**: GitHub, Docker  
+<h3 align="center">Tech Stack:</h3>
 
-Beyond web development, I enjoy working on personal projects, such as creating Telegram bots using **Aiogram** and automating tasks with **Selenium** for web scraping.
+<p align="center">
+<b>Backend</b>: Python, Django, DRF, PostgreSQL, Gunicorn, Nginx <br>
+<b>Frontend</b>: HTML, CSS, TailwindCSS, JavaScript, Vue3 <br>
+<b>Tools</b>: GitHub, Docker
+</p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheDrakl)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+Beyond web development, I enjoy working on personal projects, such as creating Telegram bots using <b>Aiogram</b> and automating tasks with <b>Selenium</b> for web scraping.
+</p>
+
+<p align="center">
+  <a href="https://github.com/TheDrakl">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheDrakl" alt="Top Langs" />
+  </a>
+</p>
