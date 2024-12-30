@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I'm Denys</h1>
 
 <p align="center">
-I'm a junior Web Developer with experience in building websites using Vue for frontend and Django with DRF for backend. While I don’t have a lot of experience yet, I am eager to learn and grow in this field.
+I'm a junior Web Developer with experience in building websites using Vue for frontend and Django with DRF for backend. 
 </p>
 
 <h3 align="center">Tech Stack:</h3>
