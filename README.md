@@ -7,7 +7,7 @@ I'm a junior Web Developer with experience in building websites using Vue for fr
 <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
-<b>Backend</b>: Python, Django, DRF, PostgreSQL, Gunicorn, Nginx <br>
+<b>Backend</b>: Python, Django, DRF, PostgreSQL, Celery, Redis, Gunicorn, Nginx <br>
 <b>Frontend</b>: HTML, CSS, TailwindCSS, JavaScript, Vue3 <br>
 <b>Tools</b>: GitHub, Docker
 </p>
