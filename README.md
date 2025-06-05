@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋 I'm Denys</h1>
 
 <p align="center">
-I'm a junior Web Developer with experience in building websites using Vue for frontend and Django with DRF for backend. 
+I'm a junior Backend Developer with experience in Django with DRF. 
 </p>
 
 <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
 <b>Backend</b>: Python, Django, DRF, PostgreSQL, Celery, Redis, Gunicorn, Nginx <br>
-<b>Frontend</b>: HTML, CSS, TailwindCSS, JavaScript, Vue3 <br>
+<b>Frontend</b>: HTML, CSS, TailwindCSS, JavaScript, React <br>
 <b>Tools</b>: GitHub, Docker
 </p>
 
