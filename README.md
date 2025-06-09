@@ -1,23 +1,37 @@
-<h1 align="center">Hello 👋 I'm Denys</h1>
+<h1 align="center">Hi, I'm Denys 👋</h1>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-I'm a junior Backend Developer with experience in Django with DRF. 
+Currently studying Software Development and building web applications using Django, DRF, and PostgreSQL.
 </p>
 
-<h3 align="center">Tech Stack:</h3>
+---
 
-<p align="center">
-<b>Backend</b>: Python, Django, DRF, PostgreSQL, Celery, Redis, Gunicorn, Nginx <br>
-<b>Frontend</b>: HTML, CSS, TailwindCSS, JavaScript, React <br>
-<b>Tools</b>: GitHub, Docker
-</p>
+### 🔧 Tech Stack
 
-<p align="center">
-Beyond web development, I enjoy working on personal projects, such as creating Telegram bots using <b>Aiogram</b> and automating tasks with <b>Selenium</b> for web scraping.
-</p>
+**Backend**  
+`Python` `Django` `Django REST Framework` `PostgreSQL` `Celery` `Redis` `Gunicorn` `Nginx`
+
+**Frontend**  
+`HTML` `CSS` `TailwindCSS` `JavaScript` `React`
+
+**Tools**  
+`Git` `Docker` `Postman` `Linux` `GitHub`
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/TheDrakl">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheDrakl" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDrakl&layout=compact&theme=default" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheDrakl&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheDrakl&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
