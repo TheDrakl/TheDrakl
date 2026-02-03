@@ -24,7 +24,7 @@ Currently studying Software Development and building web applications using Djan
 
 <p align="center">
   <a href="https://github.com/TheDrakl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDrakl&layout=compact&langs_count=8&hide=html,css,scss&exclude_repo=some-big-repo&theme=dark" alt="Top Languages" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedrakl)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
